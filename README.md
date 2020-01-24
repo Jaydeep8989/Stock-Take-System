@@ -1,1 +1,1 @@
-# Stock-Take-System
+# Stock-Mgt-System
